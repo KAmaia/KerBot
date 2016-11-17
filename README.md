@@ -1,0 +1,2 @@
+# KerBot
+Freenode #kerbalspaceprogram Bot
